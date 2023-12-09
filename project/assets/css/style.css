@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.form-group{
+    padding: 10px;
+    display: inline-block;
+}
+.I2{
+    margin-left: 10px;
+}
+.btn{
+
+    margin-left: 10px;
+}
